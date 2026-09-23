@@ -2,7 +2,7 @@
 
 A simple Python utility collection containing text analysis and mathematical helper functions.
 
-
+Version: 1.0.0 - Main Realese
 ## 📁 Files Included
 
 * **text_analyzer.py**: Functions to process and analyze text data (e.g., counting words, finding frequencies).
