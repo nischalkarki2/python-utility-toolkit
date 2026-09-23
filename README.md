@@ -1,3 +1,5 @@
+Version: 1.0.0 - Math Branch 
+
 # Project Name
 
 A simple Python utility collection containing text analysis and mathematical helper functions.
@@ -36,3 +38,4 @@ print(text_analyzer.count_words("Hello world!"))
 * Basic arithmetic operations
 * Advanced algebraic or geometric formulas
 * Number formatting helpers
+
